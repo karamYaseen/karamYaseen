@@ -20,12 +20,9 @@
 </div>
 <div align="center">
   </a>
-  <a href="https://discord.com/#8178/">
+  <a href="https://discord.com/#4292/">
     <img src="https://img.shields.io/badge/Discord-d20962?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=philopaterhany&color=673ab7&style=for-the-badge" alt="Profile Views" />
 <!--   <a href="https://">
     <img src="https://img.shields.io/badge/Portfolio-555555?logo=About.me&logoColor=white&style=for-the-badge" alt="Portfolio" />
   </a> -->
