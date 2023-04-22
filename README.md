@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
-<h3 align="center">I'm a Software Engineer, 2nd at faculty of Engineering- Zagazig University Passionate about learning Embedded system & wep development </h3>
+<h3 align="center">I'm a Software Engineer, 2nd at faculty of Engineering_Zagazig University - Passionate about learning Embedded system & wep development </h3>
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100085141807370&mibextid=ZbWKwL/">
@@ -23,11 +23,6 @@
   <a href="https://discord.com/#4292/">
     <img src="https://img.shields.io/badge/Discord-d20962?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
-<!--   <a href="https://">
-    <img src="https://img.shields.io/badge/Portfolio-555555?logo=About.me&logoColor=white&style=for-the-badge" alt="Portfolio" />
-  </a> -->
-</div>
-
 <h3>
   :man_technologist: 
   About Me
@@ -35,17 +30,15 @@
 
 <img width="450" height="300" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />&nbsp;
 
-- :books: I’m currently in high school.
-
-- :man_student: Looking forward to studying medicine.
+- :man_student:  I’m Student at faculty of Engineering_Zagazig University.
 
 - :running_man: I enjoy playing sports and do so regularly.
 
-- :clock7: In my free time, I enjoy learning web development.
+- :clock7: In my free time, I enjoy learning Embedded system.
 
 - :telescope: Seeking for knowledge & acquiring new skills.
 
-- :man_teacher: Nowadays, I'm learning React.js & Typescript.
+- :man_teacher: Nowadays, I'm learning Embedded system.
 
 <br />
 <br />
@@ -56,13 +49,8 @@
 </h3>
 
 <div>
+    <img src="https://img.shields.io/badge/-c-333?logo=python&style=for-the-badge" alt="C" />
     <img src="https://img.shields.io/badge/-Html-333?logo=html5&style=for-the-badge" alt="HTML" />
-    <img src="https://img.shields.io/badge/-Css-333?logo=css3&style=for-the-badge&logoColor=blue" alt="CSS" />
-    <img src="https://img.shields.io/badge/-Bootstrap-333?logo=bootstrap&style=for-the-badge" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/-Javascript%20+%20ES6-333?logo=javascript&style=for-the-badge" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/-Pug.js-333?logo=pug&style=for-the-badge" alt="Pug.js"  />
-    <img src="https://img.shields.io/badge/-SCSS-333?logo=sass&style=for-the-badge" alt="SCSS" />
-    <img src="https://img.shields.io/badge/-Gulp.js-333?logo=gulp&style=for-the-badge" alt="Gulp.js" />
     <img src="https://img.shields.io/badge/-Python-333?logo=python&style=for-the-badge" alt="Python" />
     <!-- <img src="https://img.shields.io/badge/-React-333?logo=react&style=for-the-badge" alt="React.js" /> -->
     <!-- <img src="https://img.shields.io/badge/-TypeScript-333?logo=typescript&style=for-the-badge" alt="TypeScript" /> -->
