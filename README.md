@@ -49,7 +49,7 @@
 </h3>
 
 <div>
-    <img src="https://img.shields.io/badge/-C-333?logo=C&style=for-the-badge" alt="C" />
+    <img src="https://img.shields.io/badge/-C++-333?logo=C++&style=for-the-badge" alt="C" />
     <img src="https://img.shields.io/badge/-Html-333?logo=html5&style=for-the-badge" alt="HTML" />
     <img src="https://img.shields.io/badge/-Python-333?logo=python&style=for-the-badge" alt="Python" />
     <!-- <img src="https://img.shields.io/badge/-React-333?logo=react&style=for-the-badge" alt="React.js" /> -->
@@ -66,18 +66,3 @@
   <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
   Github Stats
 </h3>
-
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=PhilopaterHany&show_icons=true&bg_color=282a36&text_color=b69cd1&hide_border=true&title_color=25b2ff" width="49%" />&nbsp;
-<img alt="Github Stats" src="https://streak-stats.demolab.com?user=PhilopaterHany&theme=dracula&hide_border=true" width="49%" />&nbsp;
-<img alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhilopaterHany&theme=dracula" width="32.5%">
-<img alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhilopaterHany&theme=dracula" width="67%">
-
-<br />
-<br />
-
-<h3>
-  <img src="https://media.giphy.com/media/o9KykZbrhepqKjqXxe/giphy.gif" width="35"> 
-  Trophies
-</h3>
-
-<img  alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=PhilopaterHany&theme=dracula&column=7&margin-w=5&no-frame=true" width="100%" />
