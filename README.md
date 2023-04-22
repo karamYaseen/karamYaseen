@@ -49,7 +49,7 @@
 </h3>
 
 <div>
-    <img src="https://img.shields.io/badge/-C++-333?logo=C++&style=for-the-badge" alt="C" />
+    <img src="https://img.shields.io/badge/-C-333?logo=C&style=for-the-badge" alt="C" />
     <img src="https://img.shields.io/badge/-Html-333?logo=html5&style=for-the-badge" alt="HTML" />
     <img src="https://img.shields.io/badge/-Python-333?logo=python&style=for-the-badge" alt="Python" />
     <!-- <img src="https://img.shields.io/badge/-React-333?logo=react&style=for-the-badge" alt="React.js" /> -->
@@ -61,3 +61,8 @@
 
 <br />
 <br />
+
+<h3>
+  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
+  Github Stats
+</h3>
