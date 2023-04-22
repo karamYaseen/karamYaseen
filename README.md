@@ -1,35 +1,24 @@
-<h1 align="center">Hey There Buddy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
-<h3 align="center">I'm a Passionate Web Developer</h3>
+<h1 align="center">Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
+<h3 align="center">I'm a Software Engineer, 2nd at faculty of Engineering- Zagazig University Passionate about learning Embedded system & wep development </h3>
 
 <div align="center">
-  <a href="https://facebook.com/philopater.hany.3/">
+  <a href="https://www.facebook.com/profile.php?id=100085141807370&mibextid=ZbWKwL/">
     <img src="https://img.shields.io/badge/Facebook-1877f2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>
-  <a href="https://twitter.com/PhilopaterHany4/">
+  <a href="https://twitter.com/KaramYaseen13?s=09/">
     <img src="https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/philo_1228/">
+  <a href="https://instagram.com/kemoy_aseen?igshid=MGNiNDI5ZTU=/">
     <img src="https://img.shields.io/badge/Instagram-833ab4?logo=instagram&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>
-  <a href="mailto:philopaterdev@gmail.com">
+  <a href="mailto:karamyaseen725@gmail.com">
     <img src="https://img.shields.io/badge/Email-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/phth/">
+  <a href="https://www.linkedin.com/in/karam-yaseen-6b83b8235/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 </div>
 <div align="center">
-  <a href="https://www.hackerrank.com/Philopater_Hany">
-    <img src="https://img.shields.io/badge/Hackerrank-2ec866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank" />
-  </a>
-  <a href="https://leetcode.com/Philo1211/">
-    <img src="https://img.shields.io/badge/Leetcode-f09a1a?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/Philopater_Hany">
-    <img src="https://img.shields.io/badge/Codeforces-b51c24?logo=codeforces&logoColor=white&style=for-the-badge" alt="CodeForces" />
-  </a>
-  <a href="https://codepen.io/Rafay12/">
-    <img src="https://img.shields.io/badge/Codepen-09347a?logo=codepen&logoColor=white&style=for-the-badge" alt="Codepen" />
   </a>
   <a href="https://discord.com/#8178/">
     <img src="https://img.shields.io/badge/Discord-d20962?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
