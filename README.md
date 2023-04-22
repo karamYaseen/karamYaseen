@@ -30,7 +30,7 @@
 
 <img width="450" height="300" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />&nbsp;
 
-- :man_student:  I’m Student at faculty of Engineering_Zagazig University.
+- :man_student: I’m Student at faculty of Engineering_Zagazig University.
 
 - :running_man: I enjoy playing sports and do so regularly.
 
@@ -49,7 +49,7 @@
 </h3>
 
 <div>
-    <img src="https://img.shields.io/badge/-c-333?logo=python&style=for-the-badge" alt="C" />
+    <img src="https://img.shields.io/badge/-C-333?logo=C&style=for-the-badge" alt="C" />
     <img src="https://img.shields.io/badge/-Html-333?logo=html5&style=for-the-badge" alt="HTML" />
     <img src="https://img.shields.io/badge/-Python-333?logo=python&style=for-the-badge" alt="Python" />
     <!-- <img src="https://img.shields.io/badge/-React-333?logo=react&style=for-the-badge" alt="React.js" /> -->
