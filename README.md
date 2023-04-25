@@ -23,6 +23,10 @@
   <a href="https://discord.com/#4292/">
     <img src="https://img.shields.io/badge/Discord-d20962?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
+  </a>
+  <a href="https://wa.me/qr/UF2OV6ZRZSCYN1/">
+    <img src="https://img.shields.io/badge/Whatsap-d20962?logo=wahtsap&logoColor=white&style=for-the-badg" alt=" Whatsap " />
+  </a>
 <h3>
   :man_technologist: 
   About Me
