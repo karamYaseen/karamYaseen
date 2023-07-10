@@ -38,16 +38,16 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/YourGitHubUsername">
+    <a href="https://github.com/KaramYaseen">
         <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&style=social" alt="GitHub Followers" />
     </a>
-    <a href="https://github.com/YourGitHubUsername">
+    <a href="https://github.com/KaramYaseen">
         <img src="https://img.shields.io/github/stars/KaramYaseen?style=social" alt="GitHub Stars" />
     </a>
-    <a href="https://github.com/YourGitHubUsername">
+    <a href="https://github.com/KaramYaseen">
         <img src="https://img.shields.io/github/commit-activity/m/KaramYaseen?style=social" alt="GitHub Commit Activity" />
     </a>
-    <a href="https://github.com/YourGitHubUsername">
+    <a href="https://github.com/KaramYaseen">
         <img src="https://img.shields.io/github/last-commit/KaramYaseen/KaramYaseen?style=social" alt="GitHub Last Commit" />
     </a>
 </div>
