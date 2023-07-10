@@ -41,16 +41,16 @@
 
 <div align="center">
     <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&style=social" alt="GitHub Followers (branch)" />
+        <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&logoColor=white&style=for-the-badge" alt="GitHub Followers (branch)" />
     </a>
     <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/stars/KaramYaseen?style=social" alt="GitHub Stars (branch)" />
+        <img src="https://img.shields.io/github/stars/KaramYaseen?logoColor=white&style=for-the-badge" alt="GitHub Stars (branch)" />
     </a>
     <a href="https://github.com/KaramYaseen">
        <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/m/KaramYaseen/KaramYaseen">
     </a>
     <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/last-commit/KaramYaseen/KaramYaseen?style=social" alt="GitHub Last Commit (branch)" />
+        <img src="https://img.shields.io/github/last-commit/KaramYaseen/KaramYaseen?style=social&logoColor=white&style=for-the-badge" alt="GitHub Last Commit (branch)" />
     </a>
 </div>
 
