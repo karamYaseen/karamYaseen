@@ -30,6 +30,15 @@
     <img src="https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge" alt="Python" />
     <img src="https://img.shields.io/badge/Git-333?logo=git&style=for-the-badge" alt="Git" />
 </div>
+<h3 align="center">Tools and Technologies</h3>
+<p align="center">Here are some of the tools and technologies that I work with:</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" alt="Visual Studio Code" />
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge" alt="Eclipse" />
+    <img src="https://img.shields.io/badge/Proteus-002147?logo=proteus&logoColor=white&style=for-the-badge" alt="Proteus" />
+</div>
+<br />
+<p align="center">I use these tools to develop, debug, and simulate my projects. Visual Studio Code provides a lightweight and versatile IDE for various programming languages, while Eclipse offers a robust development environment for Java and other languages. Proteus, on the other hand, is my go-to tool for circuit simulation and PCB design. These tools enhance my productivity and enable me to create high-quality software and hardware solutions.</p>
 <br />
 <h3 align="center">Let's Connect!</h3>
 <p align="center">I'm always open to new opportunities and collaborations. If you'd like to get in touch or discuss potential projects, feel free to reach out to me via email or connect with me on social media. Let's connect, inspire each other, and create amazing things together!</p>
