@@ -25,7 +25,7 @@
   </a>
   </a>
   <a href="https://wa.me/qr/UF2OV6ZRZSCYN1/">
-    <img src="https://img.shields.io/badge/Whatsap-d20962?logo=wahtsap&logoColor=white&style=for-the-badg" alt=" Whatsapp " />
+    <img src="https://img.shields.io/badge/Whatsapp-d20962?logo=wahtsap&logoColor=white&style=for-the-badg" alt=" Whatsapp " />
   </a>
 <h3>
   :man_technologist: 
