@@ -36,20 +36,18 @@
     <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge" alt="Eclipse" />
     <img src="https://img.shields.io/badge/Proteus-002147?logo=proteus&logoColor=white&style=for-the-badge" alt="Proteus" />
 </div>
-<br />
-<p align="center">I use these tools to develop, debug, and simulate my projects. Visual Studio Code provides a lightweight and versatile IDE for various programming languages, while Eclipse offers a robust development environment for Java and other
 
 <div align="center">
-    <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&logoColor=white&style=social" alt="GitHub Followers" />
+    <a href="https://github.com/YourGitHubUsername">
+        <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&style=social" alt="GitHub Followers" />
     </a>
-    <a href="https://github.com/KaramYaseen">
+    <a href="https://github.com/YourGitHubUsername">
         <img src="https://img.shields.io/github/stars/KaramYaseen?style=social" alt="GitHub Stars" />
     </a>
-    <a href="https://github.com/KaramYaseen">
+    <a href="https://github.com/YourGitHubUsername">
         <img src="https://img.shields.io/github/commit-activity/m/KaramYaseen?style=social" alt="GitHub Commit Activity" />
     </a>
-    <a href="https://github.com/KaramYaseen">
+    <a href="https://github.com/YourGitHubUsername">
         <img src="https://img.shields.io/github/last-commit/KaramYaseen/KaramYaseen?style=social" alt="GitHub Last Commit" />
     </a>
 </div>
@@ -61,3 +59,13 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KaramYaseen&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
 </div>
+<br />
+<p align="center">I use these tools to develop, debug, and simulate my projects. Visual Studio Code provides a lightweight and versatile IDE for various programming languages, while Eclipse offers a robust development environment for Java and other languages. Proteus, on the other hand, is my go-to tool for circuit simulation and PCB design. These tools enhance my productivity and enable me to create high-quality software and hardware solutions.</p>
+<br />
+<h3 align="center">Let's Connect!</h3>
+<p align="center">I'm always open to new opportunities and collaborations. If you'd like to get in touch or discuss potential projects, feel free to reach out to me via email or connect with me on social media. Let's connect, inspire each other, and create amazing things together!</p>
+<div align="center">
+  <a href="https://discord.com/#4292/">
+    <img src="https://img.shields.io/badge/Discord-d20962?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+  </a>
+  <a href="https://wa.me/qr/UF2OV6ZRZSCYN1/">
