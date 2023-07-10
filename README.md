@@ -1,4 +1,4 @@
-## <div align="center">
+<div align="center">
   <h3>بسم الله الرحمن الرحيم - In the name of Allah, the Most Gracious, the Most Merciful</h3>
 </div>
 ## <h1 align="center">Hi, I'm [Karam Yaseen]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
