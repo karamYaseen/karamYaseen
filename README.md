@@ -40,17 +40,22 @@
 <p align="center">I use these tools to develop, debug, and simulate my projects. Visual Studio Code provides a lightweight and versatile IDE for various programming languages, while Eclipse offers a robust development environment for Java and other languages. Proteus, on the other hand, is my go-to tool for circuit simulation and PCB design. These tools enhance my productivity and enable me to create high-quality software and hardware solutions.</p>
 
 <div align="center">
-    <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&logoColor=white&style=for-the-badge" alt="GitHub Followers (branch)" />
-    </a>
-    <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/stars/KaramYaseen?logoColor=white&style=for-the-badge" alt="GitHub Stars (branch)" />
-    </a>
-    <a href="https://github.com/KaramYaseen">
-       <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/m/KaramYaseen/KaramYaseen">
-    </a>
-    <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/last-commit/KaramYaseen/KaramYaseen?style=social&logoColor=white&style=for-the-badge" alt="GitHub Last Commit (branch)" />
+  <a href="https://github.com/KaramYaseen">
+    <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&logoColor=white&style=for-the-badge" alt="GitHub Followers (branch)" />
+</a>
+
+<a href="https://github.com/KaramYaseen">
+    <img src="https://img.shields.io/github/stars/KaramYaseen?logoColor=white&style=for-the-badge" alt="GitHub Stars (branch)" />
+</a>
+
+<a href="https://github.com/KaramYaseen">
+    <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/m/KaramYaseen/KaramYaseen">
+</a>
+
+<a href="https://github.com/KaramYaseen">
+    <img src="https://img.shields.io/github/last-commit/KaramYaseen/KaramYaseen?style=social&logoColor=white&style=for-the-badge" alt="GitHub Last Commit (branch)" />
+</a>
+
     </a>
 </div>
 
