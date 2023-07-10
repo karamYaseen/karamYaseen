@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/github/stars/KaramYaseen?style=social" alt="GitHub Stars" />
     </a>
     <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/commit-activity/m/KaramYaseen?style=social" alt="GitHub Commit Activity" />
+       <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/m/KaramYaseen/KaramYaseen">
     </a>
     <a href="https://github.com/KaramYaseen">
         <img src="https://img.shields.io/github/last-commit/KaramYaseen/KaramYaseen?style=social" alt="GitHub Last Commit" />
@@ -69,3 +69,6 @@
     <img src="https://img.shields.io/badge/Discord-d20962?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
   <a href="https://wa.me/qr/UF2OV6ZRZSCYN1/">
+<img src="https://img.shields.io/badge/Whatsapp-d20962?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp" />
+  </a>
+</div>
