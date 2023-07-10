@@ -1,4 +1,5 @@
 # بسم الله الرحمن الرحيم - In the name of Allah, the Most Gracious, the Most Merciful
+
 # <h1 align="center">Hi, I'm [Karam Yaseen]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
 <p align="center">Welcome to my profile! I'm a Software Engineer currently studying at [University Name]. I'm passionate about learning and exploring various domains, including Embedded Systems and Web Development. I believe in the power of technology to solve real-world problems and I'm dedicated to enhancing my skills and knowledge in these areas. Feel free to connect with me and let's collaborate on exciting projects!</p>
 <div align="center">
@@ -19,10 +20,10 @@
   </a>
 </div>
 <br />
-<h3 align="center">About Me</h3>
+#<h3 align="center">About Me</h3>
 <p align="center">I'm a dedicated Software Engineer currently pursuing my degree in [Field/University Name]. My passion for technology drives me to continuously expand my knowledge and explore new opportunities in the world of programming. I enjoy solving complex problems and creating innovative solutions using my skills in Embedded Systems and Web Development. I'm enthusiastic about learning and eager to contribute to meaningful projects that make a positive impact.</p>
 <br />
-<h3 align="center">Skills</h3>
+#<h3 align="center">Skills</h3>
 <p align="center">Here are some of the skills that I've acquired throughout my journey:</p>
 <div align="center">
     <img src="https://img.shields.io/badge/C-333?logo=C&style=for-the-badge" alt="C" />
@@ -30,7 +31,7 @@
     <img src="https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge" alt="Python" />
     <img src="https://img.shields.io/badge/Git-333?logo=git&style=for-the-badge" alt="Git" />
 </div>
-<h3 align="center">Tools and Technologies</h3>
+#<h3 align="center">Tools and Technologies</h3>
 <p align="center">Here are some of the tools and technologies that I work with:</p>
 <div align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" alt="Visual Studio Code" />
@@ -40,7 +41,7 @@
 <br />
 <p align="center">I use these tools to develop, debug, and simulate my projects. Visual Studio Code provides a lightweight and versatile IDE for various programming languages, while Eclipse offers a robust development environment for Java and other languages. Proteus, on the other hand, is my go-to tool for circuit simulation and PCB design. These tools enhance my productivity and enable me to create high-quality software and hardware solutions.</p>
 
-<div align="center">
+#<div align="center">
   <a href="https://github.com/KaramYaseen">
     <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&style=social&logoColor=white&style=for-the-badge" alt="GitHub Followers (branch)" />
 </a>
@@ -66,7 +67,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=KaramYaseen&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
 </div>
 <br />
-<h3 align="center">Let's Connect!</h3>
+#<h3 align="center">Let's Connect!</h3>
 <p align="center">I'm always open to new opportunities and collaborations. If you'd like to get in touch or discuss potential projects, feel free to reach out to me via email or connect with me on social media. Let's connect, inspire each other, and create amazing things together!</p>
 <div align="center">
   <a href="https://discord.com/#4292/">
