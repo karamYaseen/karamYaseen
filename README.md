@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm [Your Name]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
+<h1 align="center">Hello, I'm [Karam Yaseen]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
 <p align="center">Welcome to my profile! I'm a Software Engineer currently studying at [University Name]. I'm passionate about learning and exploring various domains, including Embedded Systems and Web Development. I believe in the power of technology to solve real-world problems and I'm dedicated to enhancing my skills and knowledge in these areas. Feel free to connect with me and let's collaborate on exciting projects!</p>
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100085141807370&mibextid=ZbWKwL/">
@@ -39,16 +39,16 @@
 
 <div align="center">
     <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&style=social" alt="GitHub Followers" />
+        <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&style=social" alt="GitHub Followers (branch)" />
     </a>
     <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/stars/KaramYaseen?style=social" alt="GitHub Stars" />
+        <img src="https://img.shields.io/github/stars/KaramYaseen?style=social" alt="GitHub Stars (branch)" />
     </a>
     <a href="https://github.com/KaramYaseen">
        <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/m/KaramYaseen/KaramYaseen">
     </a>
     <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/last-commit/KaramYaseen/KaramYaseen?style=social" alt="GitHub Last Commit" />
+        <img src="https://img.shields.io/github/last-commit/KaramYaseen/KaramYaseen?style=social" alt="GitHub Last Commit (branch)" />
     </a>
 </div>
 
