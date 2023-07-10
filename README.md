@@ -40,17 +40,25 @@
 
 <div align="center">
     <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social" alt="GitHub Followers" />
+        <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&style=social" alt="GitHub Followers" />
     </a>
     <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/stars/YourGitHubUsername?style=social" alt="GitHub Stars" />
+        <img src="https://img.shields.io/github/stars/KaramYaseen?style=social" alt="GitHub Stars" />
     </a>
     <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/commit-activity/m/YourGitHubUsername?style=social" alt="GitHub Commit Activity" />
+        <img src="https://img.shields.io/github/commit-activity/m/KaramYaseen?style=social" alt="GitHub Commit Activity" />
     </a>
     <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/last-commit/YourGitHubUsername/YourGitHubUsername?style=social" alt="GitHub Last Commit" />
+        <img src="https://img.shields.io/github/last-commit/KaramYaseen/KaramYaseen?style=social" alt="GitHub Last Commit" />
     </a>
+</div>
+
+<br />
+
+<p align="center">You can find more about my projects and contributions on GitHub. Don't forget to follow me and star the repositories you find interesting! Here are some GitHub statistics:</p>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
 </div>
 <br />
 <p align="center">You can find more about my projects and contributions on GitHub. Don't forget to follow me and star the repositories you find interesting! Here are some GitHub statistics:</p>
