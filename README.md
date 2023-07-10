@@ -37,6 +37,26 @@
     <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge" alt="Eclipse" />
     <img src="https://img.shields.io/badge/Proteus-002147?logo=proteus&logoColor=white&style=for-the-badge" alt="Proteus" />
 </div>
+
+<div align="center">
+    <a href="https://github.com/Karamyaseen">
+        <img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social" alt="GitHub Followers" />
+    </a>
+    <a href="https://github.com/Karamyaseen">
+        <img src="https://img.shields.io/github/stars/YourGitHubUsername?style=social" alt="GitHub Stars" />
+    </a>
+    <a href="https://github.com/Karamyaseen">
+        <img src="https://img.shields.io/github/commit-activity/m/YourGitHubUsername?style=social" alt="GitHub Commit Activity" />
+    </a>
+    <a href="https://github.com/Karamyaseen">
+        <img src="https://img.shields.io/github/last-commit/YourGitHubUsername/YourGitHubUsername?style=social" alt="GitHub Last Commit" />
+    </a>
+</div>
+<br />
+<p align="center">You can find more about my projects and contributions on GitHub. Don't forget to follow me and star the repositories you find interesting! Here are some GitHub statistics:</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
+</div>
 <br />
 <p align="center">I use these tools to develop, debug, and simulate my projects. Visual Studio Code provides a lightweight and versatile IDE for various programming languages, while Eclipse offers a robust development environment for Java and other languages. Proteus, on the other hand, is my go-to tool for circuit simulation and PCB design. These tools enhance my productivity and enable me to create high-quality software and hardware solutions.</p>
 <br />
