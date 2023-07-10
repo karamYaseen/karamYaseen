@@ -39,16 +39,16 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/Karamyaseen">
+    <a href="https://github.com/KaramYaseen">
         <img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social" alt="GitHub Followers" />
     </a>
-    <a href="https://github.com/Karamyaseen">
+    <a href="https://github.com/KaramYaseen">
         <img src="https://img.shields.io/github/stars/YourGitHubUsername?style=social" alt="GitHub Stars" />
     </a>
-    <a href="https://github.com/Karamyaseen">
+    <a href="https://github.com/KaramYaseen">
         <img src="https://img.shields.io/github/commit-activity/m/YourGitHubUsername?style=social" alt="GitHub Commit Activity" />
     </a>
-    <a href="https://github.com/Karamyaseen">
+    <a href="https://github.com/KaramYaseen">
         <img src="https://img.shields.io/github/last-commit/YourGitHubUsername/YourGitHubUsername?style=social" alt="GitHub Last Commit" />
     </a>
 </div>
