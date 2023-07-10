@@ -40,7 +40,7 @@
 
 <div align="center">
     <a href="https://github.com/KaramYaseen">
-        <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&style=social" alt="GitHub Followers" />
+        <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&style=social&logoColor=white&style=for-the-badge" alt="GitHub Followers" />
     </a>
     <a href="https://github.com/KaramYaseen">
         <img src="https://img.shields.io/github/stars/KaramYaseen?style=social" alt="GitHub Stars" />
