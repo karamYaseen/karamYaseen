@@ -36,6 +36,8 @@
     <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge" alt="Eclipse" />
     <img src="https://img.shields.io/badge/Proteus-002147?logo=proteus&logoColor=white&style=for-the-badge" alt="Proteus" />
 </div>
+<br />
+<p align="center">I use these tools to develop, debug, and simulate my projects. Visual Studio Code provides a lightweight and versatile IDE for various programming languages, while Eclipse offers a robust development environment for Java and other
 
 <div align="center">
     <a href="https://github.com/KaramYaseen">
@@ -59,5 +61,3 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KaramYaseen&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
 </div>
-<br />
-<p align="center">I use these tools to develop, debug, and simulate my projects. Visual Studio Code provides a lightweight and versatile IDE for various programming languages, while Eclipse offers a robust development environment for Java and other
