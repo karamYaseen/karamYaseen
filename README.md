@@ -2,9 +2,7 @@
   <h3>بسم الله الرحمن الرحيم - In the name of Allah, the Most Gracious, the Most Merciful</h3>
 </div>
 <h1 align="center">Hi, I'm [Karam Yaseen]!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h1>
-<p align="center">Welcome to my profile! I'm a Software Engineer currently studying at [Zagazig University]. I'm passionate about learning and exploring various domains, including Embedded Systems and Web Development. I believe in the power of technology to solve real-world problems and I'm dedicated to enhancing my skills and knowledge in these areas. Feel free to connect with me and let's collaborate on exciting projects!</p>
-<p align="center">My passion for technology drives me to continuously expand my knowledge and explore new opportunities in the world of programming. I enjoy solving complex problems and creating innovative solutions using my skills in Embedded Systems and Web Development. I'm enthusiastic about learning and eager to contribute to meaningful projects that make a positive impact.</p>
-<br />
+<p align="center">Welcome to my profile! I'm a Software Engineer currently studying at [Zagazig University]. I'm passionate about learning and exploring various domains, including Embedded Systems and Web Development. I believe in the power of technology to solve real-world problems and I'm dedicated to enhancing my skills and knowledge in these areas,My passion for technology drives me to continuously expand my knowledge and explore new opportunities in the world of programming. I enjoy solving complex problems and creating innovative solutions using my skills in Embedded Systems and Web Development. I'm enthusiastic about learning and eager to contribute to meaningful projects that make a positive impact.</p>
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100085141807370&mibextid=ZbWKwL/">
     <img src="https://img.shields.io/badge/Facebook-1877f2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
