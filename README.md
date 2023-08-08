@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/9WKUrGg.gif"/></p>
+<p align="center"><img src="https://i.imgur.com/9WKUrGg.png"/></p>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h1 align="center">Hi, I'm [Karam Yaseen]!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h1>
