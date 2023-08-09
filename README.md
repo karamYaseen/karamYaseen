@@ -92,4 +92,7 @@ I'm a Computer Science student who is passionate about Embedded Software.
 <img src="https://img.shields.io/badge/Whatsapp-d20962?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp" />
   </a>
 </div>
+</p>
+<img src="https://imgur.com/rilHVxA.png"/>
+</p>
 <!--- 💼 &nbsp; Working as an Embedded firmware internship at GOODIX Egypt.--!>
