@@ -11,7 +11,7 @@ I'm a Computer Science student who is passionate about Embedded Software.
 
 - 🎓 &nbsp; I’m currently a student at Zagazig Unversity.
 - 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Some Knowlage in HTML and CSS. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/karam-yaseen) [Gmail](mailto:karamyaseen725@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/karam-yaseen) [Gmail](https://karamyaseen725@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
