@@ -1,47 +1,53 @@
 <p align="center"><img src="https://i.imgur.com/9WKUrGg.png"/></p>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h1 align="center">Hi, I'm [Karam Yaseen]!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h1>
-<p align="center">Welcome to my profile! I'm a Software Engineer currently studying at [Zagazig University]. I'm passionate about learning and exploring various domains, including Embedded Systems and Web Development. I believe in the power of technology to solve real-world problems and I'm   dedicated to enhancing my skills and knowledge in these areas. My passion for technology drives me to continuously expand my knowledge and explore new opportunities in the world of programming. I enjoy solving complex problems and creating innovative solutions using my skills in Embedded Systems and Web Development. I'm enthusiastic about learning and eager to contribute to meaningful projects that make a positive impact.</p>
-<div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100085141807370&mibextid=ZbWKwL/">
-    <img src="https://img.shields.io/badge/Facebook-1877f2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
-  </a>
-  <a href="https://twitter.com/KaramYaseen13?s=09/">
-    <img src="https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/kemoy_aseen?igshid=MGNiNDI5ZTU=/">
-    <img src="https://img.shields.io/badge/Instagram-833ab4?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
-  </a>
-  <a href="mailto:karamyaseen725@gmail.com">
-    <img src="https://img.shields.io/badge/Email-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/karam-yaseen-6b83b8235/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-</div>
-<br />
-<h3 align="center">About Me</h3>
+<h2> Hey there! I'm Karam Yaseen.</h2>
 
-<h3 align="center">Skills</h3>
-<p align="center">Here are some of the skills that I've acquired throughout my journey:</p>
-<div align="center">
-    <img src="https://img.shields.io/badge/C-333?logo=C&style=for-the-badge" alt="C" />
-    <img src="https://img.shields.io/badge/HTML-333?logo=html5&style=for-the-badge" alt="HTML" />
-    <img src="https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge" alt="Python" />
-    <img src="https://img.shields.io/badge/Git-333?logo=git&style=for-the-badge" alt="Git" />
-</div>
-<h3 align="center">Tools and Technologies</h3>
-<p align="center">Here are some of the tools and technologies that I work with:</p>
-<div align="center">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" alt="Visual Studio Code" />
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge" alt="Eclipse" />
-    <img src="https://img.shields.io/badge/Proteus-002147?logo=proteus&logoColor=white&style=for-the-badge" alt="Proteus" />
-</div>
-<br />
-<p align="center">I use these tools to develop, debug, and simulate my projects. Visual Studio Code provides a lightweight and versatile IDE for various programming languages, while Eclipse offers a robust development environment for Java and other languages. Proteus, on the other hand, is my go-to tool for circuit simulation and PCB design. These tools enhance my productivity and enable me to create high-quality software and hardware solutions.</p>
+<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<div align="center">
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+I'm a Computer Science student who is passionate about Embedded Software.
+
+- 🎓 &nbsp; I’m currently a student at Zagazig Unversity.
+- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Some Knowlage in HTML and CSS. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/karam-yaseen) [Gmail](mailto:karamyaseen725@gmail.com)
+
+<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+
+
+- 💻 &nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![HTML](https://img.shields.io/badge/-HTML5-black??style=flat&logo=html5&logoColor=red)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=blue)
+![Java](https://img.shields.io/badge/java-black?style=flat&logo=openjdk&logoColor=red)
+
+- ⚙️ &nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+- 🔧 &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-1039f2.svg?style=flat&logo=intellij-idea&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-002147?style=flat&logo=proteus&logoColor=white&style=for-the-badge)
+
+  
+<br/>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karamYaseen" alt="karamYaseen" /> </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 📊 Profile stats
+[![Karam Yaseen 's github stats](https://github-readme-stats.vercel.app/api?username=karamYaseen&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/karamYaseen/github-readme-stats)
+
+
   <a href="https://github.com/KaramYaseen">
     <img src="https://img.shields.io/github/followers/KaramYaseen?label=Follow&style=social&logoColor=white&style=for-the-badge" alt="GitHub Followers (branch)" />
 </a>
@@ -57,19 +63,28 @@
 <a href="https://github.com/KaramYaseen">
     <img src="https://img.shields.io/github/last-commit/KaramYaseen/KaramYaseen?style=social&logoColor=white&style=for-the-badge" alt="GitHub Last Commit (branch)" />
 </a>
-</div>
-
 <br />
 
-<p align="center">You can find more about my projects and contributions on GitHub. Don't forget to follow me and star the repositories you find interesting! Here are some GitHub statistics:</p>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KaramYaseen&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
-</div>
-<br />
-<h3 align="center">Let's Connect!</h3>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 📊 Socail Media and Connect
 <p align="center">I'm always open to new opportunities and collaborations. If you'd like to get in touch or discuss potential projects, feel free to reach out to me via email or connect with me on social media. Let's connect, inspire each other, and create amazing things together!</p>
 <div align="center">
+<div align="left">
+  <a href="https://www.facebook.com/profile.php?id=100085141807370&mibextid=ZbWKwL/">
+    <img src="https://img.shields.io/badge/Facebook-1877f2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
+  </a>
+  <a href="https://twitter.com/KaramYaseen13?s=09/">
+    <img src="https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/kemoy_aseen?igshid=MGNiNDI5ZTU=/">
+    <img src="https://img.shields.io/badge/Instagram-833ab4?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="mailto:karamyaseen725@gmail.com">
+    <img src="https://img.shields.io/badge/Email-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/karam-yaseen-6b83b8235/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
   <a href="https://discord.com/#4292/">
     <img src="https://img.shields.io/badge/Discord-d20962?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
@@ -77,3 +92,4 @@
 <img src="https://img.shields.io/badge/Whatsapp-d20962?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp" />
   </a>
 </div>
+<!--- 💼 &nbsp; Working as an Embedded firmware internship at GOODIX Egypt.--!>
