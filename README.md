@@ -1,9 +1,16 @@
-<p align="center"><img src="https://i.imgur.com/9WKUrGg.png"/></p>
+<div align="center">
+
+## <span style="font-family: 'Tahoma'; font-size: 24px;">بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ.</span>
+
+_"وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ ۚ وَكَانَ فَضْلُ اللَّهِ عَلَيْكَ عَظِيمً"_ - القرآن الكريم، النساء: 113
+
+</div>
+
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h2> Hey there! I'm Karam Yaseen.</h2>
 
-<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="275" align="right" alt="Github" src="https://github.com/karamYaseen/karamYaseen/assets/120105254/7ea876f5-4746-434c-abbe-49f0461d908c"/>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -11,17 +18,17 @@ I'm a Computer Science student who is passionate about Embedded Software.
 
 - 🎓 &nbsp; I’m currently a student at Zagazig Unversity.
 - 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Some Knowlage in HTML and CSS. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/karam-yaseen) [Gmail](https://karamyaseen725@gmail.com)
+- 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/karam-yaseen)   OR   [Gmail](https://karamyaseen725@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
 
 - 💻 &nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![HTML](https://img.shields.io/badge/-HTML5-black??style=flat&logo=html5&logoColor=red)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=blue)
-![Java](https://img.shields.io/badge/java-black?style=flat&logo=openjdk&logoColor=red)
+![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=c)
+![HTML](https://img.shields.io/badge/-HTML5-333333??style=flat&logo=html5&logoColor=red)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)
+![Java](https://img.shields.io/badge/java-333333?style=flat&logo=openjdk&logoColor=red)
 
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -30,9 +37,9 @@ I'm a Computer Science student who is passionate about Embedded Software.
 - 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
-![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-1039f2.svg?style=flat&logo=intellij-idea&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-002147?style=flat&logo=proteus&logoColor=white&style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-333333?style=flat&logo=arduino&logoColor=blue)
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=blue)
+![Proteus](https://img.shields.io/badge/Proteus-333333?style=flat&logo=proteus&logoColor=blue&style=for-the-badge)
 
   
 <br/>
@@ -70,7 +77,7 @@ I'm a Computer Science student who is passionate about Embedded Software.
 <br />
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 📊 Socail Media and Connect
+###  🌐 Socail Media and Connect
 <p align="center">I'm always open to new opportunities and collaborations. If you'd like to get in touch or discuss potential projects, feel free to reach out to me via email or connect with me on social media. Let's connect, inspire each other, and create amazing things together!</p>
 <div align="center">
 <div align="left">
