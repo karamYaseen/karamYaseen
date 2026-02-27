@@ -8,16 +8,15 @@ _"وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ ۚ وَك
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h2> Hey there! I'm Karam Yaseen.</h2>
+<h2> Hi there! I'm Karam Yaseen.</h2>
 
 <img width="275" align="right" alt="Github" src="https://github.com/karamYaseen/karamYaseen/assets/120105254/7ea876f5-4746-434c-abbe-49f0461d908c"/>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a Computer Science student who is passionate about Embedded Software.
+I'm a Computer Systems Engineer student who is passionate about Data.
 
-- 🎓 &nbsp; I’m currently a student at Zagazig Unversity.
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Some Knowlage in HTML and CSS. 
+
 - 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/karam-yaseen)   OR   [Gmail](https://karamyaseen725@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
